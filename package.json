@@ -1,0 +1,9 @@
+{
+  "name": "n3",
+  "scripts": {
+    "dev": "nuxt dev"
+  },
+  "dependencies": {
+    "nuxt3": "^0.10.0-27207003.c4e4688"
+  }
+}
